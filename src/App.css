@@ -45,6 +45,10 @@ font-size: 4vh;
   color: white;
   margin: 1% 2%;
 }
+ul {
+  text-align: left;
+  list-style-position: inside;
+}
 
 .btn-launch{
   background: linear-gradient(90deg, #F27A54 0%, #A154F2 100%);

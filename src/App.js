@@ -43,6 +43,10 @@ function App() {
             <p><span className="highlight">BetterSwap</span> is a Decentralized Exchange (DEX) redesigned, rebuilt and reshaped from the ground up to solve some of the enormous problems in DeFi.</p>
             <p>Unlike other DEX's <span className="highlight">BetterSwap</span> is not just a reskined fork of previously existing solutions to DeFi exchanges,
             rather we aim to solve some of the major problems plaguing these solutions while retaining their best parts and making them...<span className="highlight">BETTER</span>.</p>
+            <p><span className="highlight">BetterSwap</span> offers,</p><ul> <li>Ability for projects/protocols to reach their true potential with treasury building</li>
+            <li>Price stabilization with Stable Coin Pools</li>
+            <li>Protection for the investors with community owned liquidity</li>
+            <li>0 trading fee for investors</li></ul>
             <p className="sub-heading highlight" style={{textAlign:"center"}}>The Better DeFi Awaits</p>
             <a href="https://app.betterswap.fi/"><div className="sub-heading btn-launch" style={{textAlign:"center"}}>Launch App</div></a>
           </div>
